@@ -1,0 +1,13 @@
+{
+  NODE_ENV: 'development'
+  COMMITTEE_ENV: 'local'
+
+  PORT: 4000
+  PORTS:
+    inspector: 1338
+    debug: 5852
+    livereload: 35724
+
+  COMMITTEE_API:
+    url: 'http://api.openparliament.ca'
+}
